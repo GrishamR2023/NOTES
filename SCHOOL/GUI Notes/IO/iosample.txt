@@ -1,0 +1,5 @@
+notepad iosample.txt
+This is what you should
+type into powershell
+
+type something else in it
